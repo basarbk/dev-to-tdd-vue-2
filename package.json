@@ -26,7 +26,9 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
     "jest": "^27.4.5",
-    "vue-template-compiler": "^2.6.11"
+    "msw": "^0.36.3",
+    "vue-template-compiler": "^2.6.11",
+    "whatwg-fetch": "^3.6.2"
   },
   "eslintConfig": {
     "root": true,
